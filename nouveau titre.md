@@ -1,6 +1,6 @@
 ---
 title: "Nouveau titre"
-order: 1
+order: 3
 in_menu: true
 blog_index: true
 ---
